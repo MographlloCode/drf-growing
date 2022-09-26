@@ -1,13 +1,13 @@
-# Como iniciar o projeto?
+# Projeto "Growing" - Aplicativo para gerenciamento de plantio
 
-### Python
+## Python
 
 Certifique-se que possui o Python instalado em sua máquina, sendo ele parte das variáveis do ambiente.
 
 Link para video explicando como instalar o python:
 https://www.youtube.com/watch?v=KeDLsBmi3JA
 
-### Ambiente Virtual
+## Ambiente Virtual
 
 Após a instalação do python será necessário ativar o ambiente virtual que está disponível na pasta do projeto.
 
@@ -17,7 +17,7 @@ ao chegar no caminho digite "activate"
 
 Ele irá ativar o ambiente virtual em seu cmd.
 
-### Inciando projeto
+## Inciando projeto
 
 Após ativado o ambiente virtual, retorne a pasta de origem do projeto.
 
@@ -33,9 +33,11 @@ Neste momento, o projeto estará rodando e você poderá testá-lo através dos 
 
 Todos aceitam requisições GET, POST, PUT, PATCH e DELETE
 
-### Testando API com Postman
+## Testando API com Postman
 
 Para testar essa API com o POSTMAN você poder seguir os passos desse vídeo:
 https://www.youtube.com/watch?v=2wKYK0nOcRA
 
 Os Screenshots com os metodos GET e POST estão na pasta "screenshots"
+
+
